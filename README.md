@@ -1,11 +1,27 @@
-- 👋 Hi, I’m Mahdi Mohammad Shibli
-- 👀 I’m interested in Django, React JS, Application Development, Rest API development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Linux Projects
+👋 Hi, I’m Mahdi Mohammad Shibli
 
-- My developer profile at open desktop - https://www.pling.com/u/madcap
+I’m a computer science graduate and systems-focused engineer with experience in designing secure, networked applications and working with regulated financial platforms. My interests lie at the intersection of system architecture, network security, and privacy-preserving technologies.
 
-<!---
-mrbrownstone07/mrbrownstone07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 Areas of interest
+- Secure system and application architecture  
+- Networked systems and API security  
+- Cryptography and access control mechanisms  
+- Privacy-enhancing technologies and resilient system design  
+
+🛠 Technical focus
+- Backend systems and API design  
+- Secure communication protocols and authentication  
+- Linux-based systems and infrastructure  
+
+🌱 Currently learning
+- Advanced topics in cybersecurity and network security  
+- Privacy-preserving system design and applied cryptography
+- Rust
+
+🤝 Open to collaboration on
+- Systems and networking projects  
+- Security-focused open-source tools  
+- Linux and infrastructure-related projects  
+
+🔗 Other profiles
+- OpenDesktop: https://www.pling.com/u/madcap
